@@ -1,2 +1,6 @@
-# Semestre_3_Exercicios
-Exercícios de Listas e tarefas desenvolvidos no 3º Semestre
+# Semestre_3_Exercises
+Exercises from lists and tasks developed in the 3rd Semester
+
+- Static and Dynamic Lists
+- List of exercises
+- Binary Tree
